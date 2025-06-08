@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 3077 2488" fill-rule="evenodd"
     xmlns:v="https://vecta.io/nano">
     <defs>
-        <image id="_FlagImage" href="https://flagcdn.com/id.svg" x="-40" y="1189" width="980" height="650"
+        <image id="_FlagImage" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='900' height='600'%3E%3Cpath fill='%23fff' d='M0 0h900v600H0z'/%3E%3Cpath fill='red' d='M0 0h900v300H0z'/%3E%3C/svg%3E" x="-40" y="1189" width="980" height="650"
             preserveAspectRatio="none" />
     </defs>
     <g transform="matrix(2.08333 0 0 2.08333 -2199.99 214.036)">
