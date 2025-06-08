@@ -23,6 +23,10 @@ This repository provides a simple, reusable SVG template for depicting a **flag 
 
 * **Muhammad Azzuhair** - [@msazzuhair](https://github.com/msazzuhair)
 
+## Flag Images
+
+Original flag images used in the examples above are taken from [flagpedia.net](https://flagpedia.net)
+
 ## License
 
 This project is open-sourced software licensed under the [MIT License](LICENSE).
