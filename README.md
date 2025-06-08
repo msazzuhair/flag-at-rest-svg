@@ -13,10 +13,10 @@ This repository provides a simple, reusable SVG template for depicting a **flag 
 ```
 
 ## Example
-<p align="center">
-  <img src="examples/un.svg" width="300" alt="United Nations Flag at Rest"/>
-  <img src="examples/id.svg" width="300" alt="Flag of Indonesia at Rest"/>
-  <img src="examples/ps.svg" width="300" alt="Flag of Palestine at Rest"/>
+<p>
+  <img src="examples/un.svg" width="50" alt="United Nations Flag at Rest"/>
+  <img src="examples/id.svg" width="50" alt="Flag of Indonesia at Rest"/>
+  <img src="examples/ps.svg" width="50" alt="Flag of Palestine at Rest"/>
 </p>
 
 ## Authors
